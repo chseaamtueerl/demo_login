@@ -1,0 +1,5 @@
+Hello:hello
+cheter:heslo123
+hacker:aaaa1aaa
+papaya:strongheslo2
+demo:heslo
